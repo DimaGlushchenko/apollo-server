@@ -1,7 +1,7 @@
 # Changelog
 
 ### VNEXT
-
+* Add `tracing` option to collect and expose trace data in the [Apollo Tracing format](https://github.com/apollographql/apollo-tracing)
 * Add support for GraphiQL editor themes in [#484](https://github.com/apollographql/apollo-server/pull/484) as requested in [#444](https://github.com/apollographql/apollo-server/issues/444)
 
 ### v1.0.3
